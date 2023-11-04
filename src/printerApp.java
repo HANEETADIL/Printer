@@ -20,7 +20,7 @@ public class printerApp {
 		System.out.println(num1);
 		System.out.printf("The value of num1 is %d\n", num1);
 		System.out.printf("The value of num2 is %d\n", num2);
-		
+		//This performs the multiplication
 		multiplication = num1 * num2;
 		System.out.println(num1+"*"+num2+"="+multiplication);
 		
