@@ -23,7 +23,7 @@ public class printerApp {
 		//This performs the multiplication
 		multiplication = num1 * num2;
 		System.out.println(num1+"*"+num2+"="+multiplication);
-		
+		//This performs the addition
 		addition = num1 + num2;
 		System.out.println(num1+" + "+ num2 + " = "+ addition);
 		
